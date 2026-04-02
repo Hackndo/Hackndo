@@ -1,3 +1,9 @@
-<p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=hackndo&row=1">
-</p>
+# Hackndo
+
+Pentester & security researcher.
+
+I write about Active Directory and offensive techniques at [hackndo.com](https://hackndo.com).
+
+---
+
+[Blog](https://hackndo.com) · [X](https://twitter.com/hackanddo) · [LinkedIn](https://www.linkedin.com/in/romainbentz/)
